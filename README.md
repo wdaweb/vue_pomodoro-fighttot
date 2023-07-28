@@ -38,4 +38,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://fighttot.github.io/tomatohomework/)
+- [GitHub](https://github.com/fighttot/tomatohomework)
+- [番茄鐘](https://fighttot.github.io/tomatohomework/)
